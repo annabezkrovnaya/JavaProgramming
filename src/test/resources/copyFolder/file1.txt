@@ -1,0 +1,1 @@
+src\main\resources\FileDirectory\file1.txt

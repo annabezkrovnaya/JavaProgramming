@@ -1,0 +1,15 @@
+src\main\resources\books.txt
+src\main\resources\book_serialized.txt
+src\main\resources\random_num.txt
+src\main\resources\serialized_group.txt
+src\main\resources\student_list_with_scores.txt
+src\main\resources\The History of Chocolate.txt
+src\main\resources\tortoise and eagle(1).txt
+src\main\resources\tortoise and eagle(2).txt
+src\main\resources\tortoise and eagle.txt
+src\main\resources\Почему Java.txt
+src\main\resources\FileDirectory\file1.txt
+src\main\resources\vocabularies\Eng.txt
+src\main\resources\FileDirectory\file2(renamed).txt
+src\main\resources\FileDirectory\file3.txt
+
